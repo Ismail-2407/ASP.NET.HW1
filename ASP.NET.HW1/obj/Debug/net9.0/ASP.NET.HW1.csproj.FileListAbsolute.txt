@@ -162,3 +162,10 @@ C:\Users\LENOVO\RiderProjects\ASP.NET.HW1\ASP.NET.HW1\obj\Debug\net9.0\refint\AS
 C:\Users\LENOVO\RiderProjects\ASP.NET.HW1\ASP.NET.HW1\obj\Debug\net9.0\ASP.NET.HW1.pdb
 C:\Users\LENOVO\RiderProjects\ASP.NET.HW1\ASP.NET.HW1\obj\Debug\net9.0\ASP.NET.HW1.genruntimeconfig.cache
 C:\Users\LENOVO\RiderProjects\ASP.NET.HW1\ASP.NET.HW1\obj\Debug\net9.0\ref\ASP.NET.HW1.dll
+C:\Users\LENOVO\RiderProjects\ASP.NET.HW1\ASP.NET.HW1\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LENOVO\RiderProjects\ASP.NET.HW1\ASP.NET.HW1\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\LENOVO\RiderProjects\ASP.NET.HW1\ASP.NET.HW1\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\LENOVO\RiderProjects\ASP.NET.HW1\ASP.NET.HW1\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\RiderProjects\ASP.NET.HW1\ASP.NET.HW1\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\RiderProjects\ASP.NET.HW1\ASP.NET.HW1\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO\RiderProjects\ASP.NET.HW1\ASP.NET.HW1\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
